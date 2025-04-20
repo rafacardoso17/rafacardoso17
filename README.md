@@ -54,12 +54,22 @@
 
 ---
 
-## 🌐 Onde me encontrar | Where to Find Me
+---
 
-| Plataforma | Link |
-|-----------|------|
-| GitHub | [rafacardoso17](https://github.com/rafacardoso17) |
-<!-- Adicione outras redes aqui, se quiser -->
+## 🌐 Onde me encontrar | Where to find me
+
+<div align="center">
+  <a href="https://www.instagram.com/iamrafaelcardoso/profilecard/?igsh=bzZiZWQ2azV6dmU4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20(pessoal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pyqschrobit?igsh=MXNtdnVic3R4ZmFudQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20(quântico)-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-martins-cardoso-a9940133" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
